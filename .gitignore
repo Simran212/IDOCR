@@ -1,0 +1,4 @@
+/node_modules
+/.env
+/idocr-frontend/node_modules
+/idocr-backend/node_modules
